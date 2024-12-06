@@ -1,0 +1,22 @@
+-- 15 Business Problems
+
+// Easy Level //
+1. Find the total number of Movies and TV Shows.
+2. Get the Top 10 countries producing the most content.
+3. Find the oldest and Newest content in each genre.
+4. Find the most frequent directors.
+5. List all TV Shows added in last 5 years.
+
+// Medium Level //
+6. Get the total number of shows added each month over the year.
+7. Rank directors by the total number of shows they've directed with a ranking column.
+8. Find the longest running TV Shows(in terms of Seasons) in each genre.
+9. Get the percentage of TV Shows and movies for each rating.
+10. Find the countries with most content in each genre.
+
+// Difficult Level //
+11. Find the top 3 genre for each country.
+12. Find the most popular genre.
+13. Identify the country with the highest Average release year for content.
+14. Find the Top 5 countries by their contribution to specific gentre.
+15. Identify the casts members who appear in most content.
