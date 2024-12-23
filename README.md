@@ -16,7 +16,7 @@ This project involves analyzing Netflix Data. This analysis is performed using P
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ramya-pintchy/Netflix-EDA-ofMovies-and-TV-Shows-Shows-using-SQL.git
-cd Netflix-EDA-ofMovies-and-TV-Shows-Shows-using-SQL
+   cd Netflix-EDA-ofMovies-and-TV-Shows-Shows-using-SQL
 
 2. Open PostgreSQL and create a new database:
    ```bash
